@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "285368615910",
+    "firebase_url": "https://speshfood-c0830.firebaseio.com",
+    "project_id": "speshfood-c0830",
+    "storage_bucket": "speshfood-c0830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285368615910:android:52484ac803b53103",
+        "android_client_info": {
+          "package_name": "com.speshfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285368615910-i50e5s7h8a74bpomcp708degepm37vgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.speshfood",
+            "certificate_hash": "97f873b16bae045a4dc68ae7b75ed96628a1c3b3"
+          }
+        },
+        {
+          "client_id": "285368615910-7304iskie4ov5b9mm2opg9a8ja5dve7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8urB6GzhbDeCab_CI8lyxEvNpPS_SFl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285368615910-7304iskie4ov5b9mm2opg9a8ja5dve7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
